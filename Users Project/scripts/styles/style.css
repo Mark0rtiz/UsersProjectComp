@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.register{
+    font-family: 'Work Sans', sans-serif;
+}
+header{
+    background-color: rgb(66, 66, 234);
+    height: 200px;
+}
+header h1{
+    text-align: center;
+    color: white;
+    justify-content: center;
+}
+
+.form-control{
+    display: flex;
+
+}
+.form-control label{
+    flex-basis: 20%;
+}
+.hide{
+    display: none;
+}
